@@ -1,0 +1,6 @@
+Visual-studio
+Mysql
+library-
+kaggle 
+pandas
+sqlalchemy
